@@ -1,4 +1,4 @@
-#‌ Example Jupyter Notebooks to demo the use of ncbi-datasets python library
+# Example Jupyter Notebooks to demo the use of ncbi-datasets python library
 The Jupyter Notebooks herein demonstrate how one can use the ncbi-datasets python library to query and download data using NCBI Datasets.
 
 ## NCBI Datasets 
