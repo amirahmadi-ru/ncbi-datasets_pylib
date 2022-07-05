@@ -11,3 +11,8 @@ NCBI Datasets tools are under active development. Submit feedback by creating a 
 
 Download and install NCBI Datasets command-line :
 `pip install ncbi-datasets-pylib`
+
+
+| File | Non-interactive | Binder |
+| --- | --- | --- |
+| ncbi-datasets-gene | [ncbi datasets-gene.ipynb](https://github.com/amirahmadi-ru/ncbi-datasets_pylib/blob/main/ncbi%20datasets-gene.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncbi/datasets/master?filepath=examples/jupyter/ncbi-datasets-pylib/ncbi-datasets-gene.ipynb) |
