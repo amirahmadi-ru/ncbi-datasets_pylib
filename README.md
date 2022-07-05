@@ -1,2 +1,2 @@
 # ncbi-datasets_pylib
-Use NCBI Datasets &amp; Retrieve Information on Genes
+Use the NCBI dataset to get examples of information about genes
